@@ -1,7 +1,7 @@
 ---
 title: "Vergleich verschiedener Strategien zur deformierbaren Dosisakkumulation in der MR-geführten adaptiven Strahlentherapie des Prostatakarzinoms"
 collection: Poster Presentation
-type: "DPoster Presentation"
+type: "Poster Presentation"
 permalink: /talks/2022-05-01-talk-poster-2
 venue: "Deutsche Gesellschaft für Radioonkologie (DEGRO)"
 date: 2022-05-27
