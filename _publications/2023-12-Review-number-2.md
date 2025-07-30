@@ -6,7 +6,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-12-Review-number-2
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-12-01
 venue: 'Physics in Medicine & Biology'
 paperurl: 'https://doi.org/10.1088/13616560/ad0d8a.'
 
