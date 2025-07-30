@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Dr Martina Murr"
   pronouns         : # example: "she/her"
-  bio              : "Medical Human Scientists"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "Medical Human Scientist"
+  location         : "Germany"
+  #employer         : "Red Brick University"
+  uri              :  martinamurr.com
   email            : "martina.murr@gmx.de"
 
   # Academic websites
