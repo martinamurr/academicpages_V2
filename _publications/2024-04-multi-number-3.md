@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-04-multi-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
+date: 2024-04-01
 venue: 'Physics and Imaging in Radiation Oncology'
 paperurl: 'https://doi.org/10.1016/j.phro.2024.100588'
 
