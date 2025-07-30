@@ -6,7 +6,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-05-Applicability-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-05-01
 venue: 'Radiotherapy and Oncology'
 paperurl: 'https://doi.org/10.1016/j.radonc.2023.109527'
 
