@@ -1,11 +1,11 @@
 ---
-title: "Lecturer in Master’s degree program in Medical Technolog "
+title: "Lecturer in Master’s degree program in Medical Technolog"
 collection: teaching
 type: "Lecturer"
 permalink: /teaching/2025-spring-teaching-3
 venue: "Wilhelm Büchner Hochschule "
 date: 2025-04-01
-location: "Tübingen, DE, EU"
+location: "Darmstadt, DE, EU"
 ---
 
 - Lecturer in Master’s degree program in Medical Technology
